@@ -16,3 +16,4 @@ hello git hello xiaolai
 hello git hello xiaolai
 hello git hello xiaolai
 first change
+second in hot-fix change
